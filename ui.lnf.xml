@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1239" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="'" type="PLAIN_TEXT" />
+      <mapping pattern="fg" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="XML" />
+    </extensionMap>
+  </component>
+</application>
