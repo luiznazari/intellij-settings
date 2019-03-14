@@ -6,6 +6,7 @@
       <mapping pattern="'" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="CadastrarDocenteResponseSuccess" type="XML" />
       <mapping ext="cfg" type="XML" />
       <mapping ext="cml" type="XML" />
       <mapping ext="xm" type="XML" />
