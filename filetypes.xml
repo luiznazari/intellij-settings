@@ -10,6 +10,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="mongodb" type="PLAIN_TEXT" />
       <mapping pattern="GetEnderecoPorCepRequest" type="XML" />
       <mapping pattern="CadastrarDocenteResponseSuccess" type="XML" />
       <mapping pattern="ApiTokenResponseSuccess" type="XML" />
