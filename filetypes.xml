@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.cert.conf" type="PLAIN_TEXT" />
-      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="'" type="PLAIN_TEXT" />
+      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
@@ -11,8 +12,8 @@
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="mongodb" type="PLAIN_TEXT" />
-      <mapping pattern="GetEnderecoPorCepRequest" type="XML" />
       <mapping pattern="CadastrarDocenteResponseSuccess" type="XML" />
+      <mapping pattern="GetEnderecoPorCepRequest" type="XML" />
       <mapping pattern="ApiTokenResponseSuccess" type="XML" />
       <mapping ext="cfg" type="XML" />
       <mapping ext="cml" type="XML" />
