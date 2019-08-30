@@ -6,15 +6,14 @@
       <mapping pattern="'" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="CadastrarDocenteResponseSuccess" type="XML" />
       <mapping ext="cfg" type="XML" />
-      <mapping ext="cml" type="XML" />
       <mapping ext="xm" type="XML" />
+      <mapping ext="cml" type="XML" />
     </extensionMap>
   </component>
 </application>
