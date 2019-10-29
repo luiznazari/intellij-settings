@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.ehcache.org/ehcache.xsd" location="$USER_HOME$/.IdeaIC2019.2/system/extResources/f9f43897_ehcache.xsd" />
+  </component>
+</application>
