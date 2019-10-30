@@ -1,0 +1,9 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:MaximumInheritanceDepth" />
+      </set>
+    </option>
+  </component>
+</application>
