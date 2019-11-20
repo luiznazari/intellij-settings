@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="squid:MaximumInheritanceDepth" />
+        <option value="squid:S2095" />
       </set>
     </option>
   </component>
