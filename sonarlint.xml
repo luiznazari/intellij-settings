@@ -6,5 +6,15 @@
         <option value="squid:S2095" />
       </set>
     </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.fabrica.senior.com.br/" />
+          <token>dfcedfcbdfcedf9ddfcedf93df99df9edfcedf9adfcbdfccdf9edf9fdf92df99df9bdf93df9fdfcfdf99df9cdf9cdfccdf93df98dfcedfc8dfc8df93df99dfc9df9ddf98df92dfcbdf92df9adf9cdf9c</token>
+          <option name="name" value="Sonar FSW" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
   </component>
 </application>
