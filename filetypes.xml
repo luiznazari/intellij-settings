@@ -4,6 +4,7 @@
       <mapping pattern="*.cert.conf" type="PLAIN_TEXT" />
       <mapping pattern="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="'" type="PLAIN_TEXT" />
+      <mapping pattern="CteIntegrationServiceTest_a" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
