@@ -6,6 +6,7 @@
       <mapping pattern="'" type="PLAIN_TEXT" />
       <mapping pattern="CteIntegrationServiceTest_a" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="oauth2" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
