@@ -15,6 +15,7 @@
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="usu_intsapemp" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="mongodb" type="PLAIN_TEXT" />
