@@ -1,16 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="java:S1481" />
-        <option value="squid:AssignmentInSubExpressionCheck" />
-        <option value="squid:MaximumInheritanceDepth" />
-        <option value="squid:S1170" />
-        <option value="squid:S1192" />
-        <option value="squid:S1854" />
-        <option value="squid:S2095" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -22,5 +11,14 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="squid:MaximumInheritanceDepth" />
+      <Rule active="false" key="java:S1481" />
+      <Rule active="false" key="squid:AssignmentInSubExpressionCheck" />
+      <Rule active="false" key="squid:S1854" />
+      <Rule active="false" key="squid:S1170" />
+      <Rule active="false" key="squid:S1192" />
+      <Rule active="false" key="squid:S2095" />
+    </rules>
   </component>
 </application>
