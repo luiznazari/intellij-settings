@@ -3,11 +3,10 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.fabrica.senior.com.br/" />
+          <option name="hostUrl" value="http://sonar.dockerfabrica.senior.com.br/" />
+          <token>df98dfc9dfcbdfc9dfcedf9bdfccdf92df92df9cdfcbdf99df99df9edf93df93dfc8dfcedfcbdf9edf99df93dfcedf9adf9fdf93dfcedf9ddfc8df9bdf9adfc8df9bdf9edfc8dfcbdf92dfccdfcedf9a</token>
           <option name="name" value="Sonar FSW - Test" />
-          <option name="login" value="" />
-          <password />
-          <organizationKey />
+          <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
