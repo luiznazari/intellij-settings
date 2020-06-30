@@ -3,9 +3,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.dockerfabrica.senior.com.br/" />
+          <option name="hostUrl" value="http://sonar.dockerfabrica.senior.com.br" />
           <token>df98dfc9dfcbdfc9dfcedf9bdfccdf92df92df9cdfcbdf99df99df9edf93df93dfc8dfcedfcbdf9edf99df93dfcedf9adf9fdf93dfcedf9ddfc8df9bdf9adfc8df9bdf9edfc8dfcbdf92dfccdfcedf9a</token>
-          <option name="name" value="Sonar FSW - Test" />
+          <option name="name" value="Sonar FSW" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
@@ -15,8 +15,8 @@
       <Rule active="false" key="java:S1481" />
       <Rule active="false" key="squid:AssignmentInSubExpressionCheck" />
       <Rule active="false" key="squid:S1854" />
-      <Rule active="false" key="squid:S1170" />
       <Rule active="false" key="squid:S1192" />
+      <Rule active="false" key="squid:S1170" />
       <Rule active="false" key="squid:S2095" />
     </rules>
   </component>
