@@ -12,6 +12,7 @@
     </option>
     <rules>
       <Rule active="false" key="squid:MaximumInheritanceDepth" />
+      <Rule active="false" key="java:S1155" />
       <Rule active="false" key="java:S1481" />
       <Rule active="false" key="squid:AssignmentInSubExpressionCheck" />
       <Rule active="false" key="squid:S1854" />
