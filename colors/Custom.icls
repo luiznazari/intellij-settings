@@ -4,7 +4,7 @@
     <property name="created">2019-11-05T10:44:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-05T10:48:06</property>
+    <property name="modified">2020-07-15T14:40:06</property>
     <property name="originalScheme">Obsidian</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -35,6 +35,8 @@
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="NOTIFICATION_BACKGROUND" value="1b2326" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="b1b0b5" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
@@ -354,7 +356,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="293134" />
-        <option name="BACKGROUND" value="e0e2e4" />
+        <option name="BACKGROUND" value="a4a6a7" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
