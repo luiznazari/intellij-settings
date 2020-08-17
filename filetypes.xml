@@ -21,6 +21,7 @@
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="GetEnderecoPorCepRequest" type="XML" />
       <mapping pattern="ApiTokenResponseSuccess" type="XML" />
+      <mapping pattern="GravarClientes5ResponseSuccess" type="XML" />
       <mapping pattern="CadastrarDocenteResponseSuccess" type="XML" />
       <mapping ext="xm" type="XML" />
       <mapping ext="cml" type="XML" />
