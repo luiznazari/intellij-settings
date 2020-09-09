@@ -22,5 +22,6 @@
     <mask>Dockerfile</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
