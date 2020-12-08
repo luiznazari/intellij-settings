@@ -14,6 +14,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="CteIntegrationServiceTest_a" type="PLAIN_TEXT" />
       <mapping ext="usu_intsapemp" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
