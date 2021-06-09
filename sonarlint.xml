@@ -14,6 +14,7 @@
       <Rule active="false" key="squid:MaximumInheritanceDepth" />
       <Rule active="false" key="java:S2629" />
       <Rule active="false" key="squid:AssignmentInSubExpressionCheck" />
+      <Rule active="false" key="java:S6212" />
       <Rule active="false" key="squid:S1854" />
       <Rule active="false" key="squid:S1170" />
       <Rule active="false" key="squid:S1192" />
