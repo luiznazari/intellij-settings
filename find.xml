@@ -16,9 +16,10 @@
     <mask>*Test.java</mask>
     <mask>*.xml</mask>
     <mask>*yml</mask>
-    <mask>Dockerfile</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>Dockerfile</mask>
+    <mask>bootstrap.yml</mask>
     <mask>pom.xml</mask>
   </component>
 </application>
